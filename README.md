@@ -1,7 +1,9 @@
 # Hi there, I'm Aimal Khan
 ### 🌍 Geospatial Data Analyst
 
-![My Image](https://github.com/aimal88/aimal88/blob/main/image.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/aimal88/aimal88/blob/main/image.jpg?raw=true" alt="My Image" width="400"/>
+</p>
 
 I'm a GIS and Remote Sensing expert with experience in:  
 - 🗺️ Spatial Data Analysis  
